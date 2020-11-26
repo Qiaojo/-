@@ -7,7 +7,7 @@
 <meta name="description" content="inuoi's Homepage'">
 <meta name="keywords" content="inuoi">
 <meta name="author" content="inuoi">
-<title>inuoi Homepage</title>
+<title inuoi Homepage /title>
 <link rel="stylesheet" type="text/css" href="lib/font-awesome-4.7.0/css/font-awesome.min.css">
 <link rel="shortcut icon" type="image/x-icon" href="https://q1.qlogo.cn/g?b=qq&nk=29322171&s=640">
 <link rel="stylesheet" type="text/css" href="css/animate.css">
